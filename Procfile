@@ -1,1 +1,1 @@
-worker: bash warbot
+worker: bash dangercat
