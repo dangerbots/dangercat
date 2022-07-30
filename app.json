@@ -1,5 +1,5 @@
 {
-  "name": "WARUSERBOT",
+  "name": "DANGERCAT",
   "description": "One of the best Userbot for Telegram. Known for its Smoothness, Design, Support.",
   "logo": "https://telegra.ph/file/44edfd6fa6faaf5284264.jpg",
   "keywords": [
@@ -11,7 +11,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/MeAbhish3k/waruserbot/",
+  "repository": "https://github.com/dangerbots/dangercat/",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
