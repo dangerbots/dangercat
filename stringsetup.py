@@ -17,7 +17,7 @@ if okvai == "69":
         APP_ID = int(input("\nEnter APP ID here: "))
         API_HASH = input("\nEnter API HASH here: ")
         with TelegramClient(StringSession(), APP_ID, API_HASH) as hellbot:
-            print("\nYour Waruserbot Session Is sent in your Telegram Saved Messages.")
+            print("\nYour dangercat Session Is sent in your Telegram Saved Messages.")
             warbot.send_message("me", f"#DANGERCAT #DANGERCAT_SESSION \n\n`{dangercat.session.save()}`")
     elif library == "2":
         print("Pyrogram Session for Music Bot")
