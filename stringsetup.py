@@ -13,7 +13,7 @@ if okvai == "69":
     print("Choose the string session type: \n1. DANGERCAT \n2. Music Bot")
     library = input("\nYour Choice: ")
     if library == "1":
-        print("\nTelethon Session For WarUserBot")
+        print("\nTelethon Session For dangercat")
         APP_ID = int(input("\nEnter APP ID here: "))
         API_HASH = input("\nEnter API HASH here: ")
         with TelegramClient(StringSession(), APP_ID, API_HASH) as hellbot:
