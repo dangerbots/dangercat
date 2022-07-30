@@ -9,7 +9,7 @@ _HELLBOT_MAIN() {
     $(_python_ 'from git import Repo
 import sys
 
-_UPSTREAM_ = "https://github.com/MeAbhish3k/waruserbot"
+_UPSTREAM_ = "https://github.com/dangerbots/dangercat"
 _BRANCH_ = "master"
 
 repo = Repo.init()
@@ -54,8 +54,8 @@ _starter () {
     cd $HELLPATH
     # _HELLBOT_PLUG
     python3 ../setup/updater.py ../requirements.txt requirements.txt
-    echo "••• STARTING WARUSERBOT •••"
-    python3 -m warbot
+    echo "••• STARTING DANGERCAT •••"
+    python3 -m dangercat
 }
 
 _starter
