@@ -1,1 +1,1 @@
-worker: bash dangercat
+worker: python3 -m dangercat
