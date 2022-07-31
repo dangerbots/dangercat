@@ -58,7 +58,7 @@ vcsi
 wand
 wget
 wheel
-
+dangercat 
 git+https://github.com/xabhish3k/py-googletrans@master
 git+https://github.com/xabhish3k/Wikipedia@master
 
