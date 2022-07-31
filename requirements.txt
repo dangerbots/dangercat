@@ -59,10 +59,8 @@ wand
 wget
 wheel
 
-git+https://github.com/MR-JINN-OF-TG/py-googletrans@master
-git+https://github.com/MR-JINN-OF-TG/Wikipedia@master
 
-git+https://github.com/MR-JINN-OF-TG/youtube-search-python@master
+
 
 
 
