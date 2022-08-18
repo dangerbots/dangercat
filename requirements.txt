@@ -50,7 +50,8 @@ spamwatch
 speedtest-cli
 sqlalchemy==1.3.23
 telegraph
-telethon
+#telethon
+git+https://github.com/LonamiWebs/Telethon@v1.24
 tgcrypto
 validators
 vcam
