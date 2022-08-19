@@ -1,4 +1,4 @@
-aiofiles
+6aiofiles
 aiohttp
 apscheduler
 cairosvg
@@ -50,6 +50,7 @@ spamwatch
 speedtest-cli
 sqlalchemy==1.3.23
 telegraph
+telethon 
 tgcrypto
 validators
 vcam
@@ -57,7 +58,6 @@ vcsi
 wand
 wget
 wheel
-git+https://github.com/LonamiWebs/Telethon
 git+https://github.com/xabhish3k/py-googletrans@master
 git+https://github.com/xabhish3k/Wikipedia@master
 git+https://github.com/xabhish3k/yt-search-python@master
