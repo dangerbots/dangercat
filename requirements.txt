@@ -5,7 +5,7 @@ cairosvg
 cfscrape
 colour
 DateTime
-emoji==1.7.0
+emoji
 fonttools
 geopy
 gitpython
