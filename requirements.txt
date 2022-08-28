@@ -59,11 +59,10 @@ wand
 wget
 wheel
 
-git+https://github.com/xabhish3k/py-googletrans@master
-git+https://github.com/xabhish3k/Wikipedia@master
-
-git+https://github.com/xabhish3k/yt-search-python@master
-
+git+https://github.com/HellBoy-OP/py-googletrans
+git+https://github.com/HellBoy-OP/Wikipedia
+git+https://github.com/HellBoy-OP/yt-dp-fork
+git+https://github.com/HellBoy-OP/yt-search-python
 
 
 
