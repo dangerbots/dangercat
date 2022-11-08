@@ -26,7 +26,7 @@ _hell_repo () {
 }
 
 _hell_zip () {
-    echo "aHR0cHM6Ly9naXRodWIuY29tL0RhbmdlcnByb2JvdHMvZGFuZ2VyY2F0L2FyY2hpdmUvbWFzdGVyLnppcA==" | base64 -d
+    echo "aHR0cHM6Ly9naXRodWIuY29tL2RhbmdlcmJvdHMvcGx1Z2lucy9hcmNoaXZlL21hc3Rlci56aXA=" | base64 -d
 }
 
 _HELLBOT_PLUG() {
