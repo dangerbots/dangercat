@@ -13,7 +13,8 @@
 <h2 align="center">⚙️ D E P L O Y I N G ⚙️</h2>
 
 
-<p align="center"><a href="https://railway.app/new/template?template=https://github.com/Dangerprobots/dangercat-1&envs=STRING_SESSION5,STRING_SESSION4,STRING_SESSION3,STRING_SESSION2,STRING_SESSION1,DATABASE_URL,API_ID,API_HASH,SUDO_USERS,MONGO_DB"> <img src="https://img.shields.io/badge/Deploy%20To%20Railway-black?style=for-the-badge&logo=railway" width="220" height="38.45"/></a></p>
+### Deploy on Railway
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/4C897t)
 
 
 <h3>  STRING SESSION  </h3>
