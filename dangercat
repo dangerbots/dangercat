@@ -21,5 +21,5 @@ git clone https://github.com/dangerbots/dangercat-plugins dcat
 cd dcat
 pip3 install -U -r requirements.txt
 _externals
-python3 main.py
+python3 -m Zaid
 
