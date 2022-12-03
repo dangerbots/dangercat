@@ -17,7 +17,7 @@ apt update && apt upgrade -y
 apt install git -y
 _other_installs
 pip3 install -U pip
-git clone https://github.com/Dangerprobots/dangercat dcat
+git clone https://github.com/dangerbots/dangercat-plugins dcat
 cd dcat
 pip3 install -U -r requirements.txt
 _externals
