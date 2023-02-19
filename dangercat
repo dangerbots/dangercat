@@ -54,7 +54,7 @@ _starter () {
     # _HELLBOT_PLUG
     python3 ../setup/updater.py ../requirements.txt requirements.txt
     echo "••• STARTING DANGERCAT •••"
-    python3 -m dangercat
+    python3 -m TelethonHell 
 }
 
 _starter
