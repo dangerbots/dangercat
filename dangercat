@@ -9,7 +9,7 @@ _python_() {
 _HELLBOT_MAIN() {
     $(_python_ 'from git import Repo
 import sys
-_UPSTREAM_ = "https://github.com/dangerbots/dangercat"
+_UPSTREAM_ = "https://github.com/dangerbots/userbotnew"
 _BRANCH_ = "master"
 repo = Repo.init()
 origin = repo.create_remote("temponame", _UPSTREAM_)
