@@ -1,1 +1,1 @@
-worker: bash dangercat
+worker: bash DCAT
