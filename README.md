@@ -34,7 +34,7 @@
 
 
 
-Credit - waruserbot 
+Credit - waruserbot & hellbot
 
 
 
